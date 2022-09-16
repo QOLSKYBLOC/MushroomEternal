@@ -68,3 +68,8 @@ Setup -
 
 Mushroom Eternal's custom ah GUI
 ![image](https://user-images.githubusercontent.com/110674936/183275422-6ea5bc7a-8645-44f2-93dc-6ac52e43cf6c.png)
+
+
+
+
+If support is needed, contact on me on Discord: Clockie#5520
