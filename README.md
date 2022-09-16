@@ -6,7 +6,7 @@ This is a popular flipping mod, used by over 43.3% of top flippers! Mushroom Ete
 
 ### *DO NOT Download this mod from anywhere else, as this is the official release, and the only safe one!*
 
-Download
+# Download
 If on Mac Hold down Shift Command and G on your keyboard
 
 Type: ∼/Library/Application Support/minecraft/mods
