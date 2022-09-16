@@ -34,4 +34,5 @@ IMPORTANT INFORMATION: THIS MOD IS CONFIRMED BY THE ADMINS AND YOU WILL NOT GET 
 
 # Images
 Setup -
-https://user-images.githubusercontent.com/110674936/183275323-64697e3b-c6da-4302-837a-8bb530208890.png
+![image](https://user-images.githubusercontent.com/108312076/190553388-97c02b0a-7b5b-43b9-81ea-3ab841911a2c.png)
+
