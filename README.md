@@ -1,6 +1,6 @@
 ###### **Version - 1.8.9**
 
-### Please use 1.1.5, as 1.1.4 is no longer in service. 1.1.5, has multiple new features, and will give you a nicer flipping experience!
+### Please use 1.1.7, as 1.1.6 is no longer in service. 1.1.5, has multiple new features, and will give you a nicer flipping experience!
 
 This is a popular flipping mod, used by over 43.3% of top flippers! Mushroom Eternal finds AH snipes so quick, you can make over 4B in a day from being quite lucky/depending on how large your budget is!
 
