@@ -36,3 +36,7 @@ IMPORTANT INFORMATION: THIS MOD IS CONFIRMED BY THE ADMINS AND YOU WILL NOT GET 
 Setup -
 ![image](https://user-images.githubusercontent.com/108312076/190553388-97c02b0a-7b5b-43b9-81ea-3ab841911a2c.png)
 
+MushroomEternal's Custom Auction House GUI
+![image](https://user-images.githubusercontent.com/108312076/190553462-9d2ab1f0-03cd-48ab-a119-b6e13bf5bd49.png)
+
+
