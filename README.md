@@ -72,4 +72,4 @@ Mushroom Eternal's custom ah GUI
 
 
 
-If support is needed, contact on me on Discord: Clockie#5520
+If support is needed, contact on me on Discord: Shrades#5585
