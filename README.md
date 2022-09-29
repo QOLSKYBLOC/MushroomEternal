@@ -47,12 +47,12 @@ And then drag Mushroom Eternal into your mods folder
 Info
 ------------------------------------------------------------------------------------------------------
 
-6. commands: /ahf to open the menu /bind ahf ( keybind to open menu )
+6. commands: /mush to open the menu /bind mush ( keybind to open menu )
 
 
 Once in the menu, enter the minimum profit, budget, and minimum profit percentage. Once you're done, click okay. After this you should see a ton of ah snipes come up in chat. 
 
-Good luck flippin' !!!
+Good luck flipping !!!
 
 IMPORTANT INFORMATION: THIS MOD IS CONFIRMED BY THE ADMINS AND YOU WILL NOT GET BANNED FOR USING IT
 
